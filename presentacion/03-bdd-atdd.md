@@ -1,9 +1,9 @@
-== BDD y ATDD: testing centrado en el usuario
+## BDD y ATDD: testing centrado en el usuario
 
 +++
 
-== Redactar historias de usuario orientadas a los tests
+## Redactar historias de usuario orientadas a los tests
 
 +++
 
-== Redactar tests orientados al cliente
+## Redactar tests orientados al cliente
