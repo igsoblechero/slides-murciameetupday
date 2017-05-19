@@ -1,6 +1,6 @@
 ## Quién soy
 
-![Sweeney y yo](../imagenes/yo_collar_sweeney.jpg)
+![Sweeney y yo](imagenes/yo_collar_sweeney.jpg)
 
 * Soy Iñaki, tengo 28 años y estudié Ingeniería Técnica en Informática de Sistemas en la UM.
 * He trabajado 2 años centrado en temas de calidad software y mejora de procesos de desarrollo en Neuromobile.
